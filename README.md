@@ -7,3 +7,4 @@ Implementing [Marian Mraz's Push Button](http://drbl.in/cena "Marian Mraz's Push
 
 - Author: [@maxart](http://twitter.com/#!/maxart/)
 - Released: October 14 2011
+- Original work and design by Marian Mraz - http://drbl.in/cena
