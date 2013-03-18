@@ -38,7 +38,7 @@ body {
   background: -o-linear-gradient(top, #d44925, #ba301a);
   background: -ms-linear-gradient(top, #d44925, #ba301a);
   background: linear-gradient(top, #d44925, #ba301a);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d44925', endColorstr='#ba301a',GradientType=0 ); /* Added gradient for IE7-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d44925',endColorstr='#ba301a',GradientType=0);
 }
 
 a.button {
@@ -82,7 +82,7 @@ a.button {
   background: -o-linear-gradient(top, #ff5934 0%,#dc4116 50%,#d02e17 51%,#b21109 100%);
   background: -ms-linear-gradient(top, #ff5934 0%,#dc4116 50%,#d02e17 51%,#b21109 100%);
   background: linear-gradient(top, #ff5934 0%,#dc4116 50%,#d02e17 51%,#b21109 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5934', endColorstr='#b21109',GradientType=0 ); /* Added gradient for IE6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5934',endColorstr='#b21109',GradientType=0);
   -webkit-box-shadow:0 1px 1px #000;
   -moz-box-shadow:0 1px 1px #000;
   box-shadow:0 1px 1px #000;
@@ -111,7 +111,7 @@ a.button:before {
   background: -o-linear-gradient(top, #ba1f17, #e04d32);
   background: -ms-linear-gradient(top, #ba1f17, #e04d32);
   background: linear-gradient(top, #ba1f17, #e04d32);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ba1f17', endColorstr='#e04d32',GradientType=0 ); /* Added gradient for IE6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ba1f17',endColorstr='#e04d32',GradientType=0);
   z-index:-1;
 }
 
@@ -135,7 +135,7 @@ a.button:active {
   background: -o-linear-gradient(top, #a50402, #e54321);
   background: -ms-linear-gradient(top, #a50402, #e54321);
   background: linear-gradient(top, #a50402, #e54321);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a50402', endColorstr='#e54321',GradientType=0 ); /* Added gradient for IE6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a50402',endColorstr='#e54321',GradientType=0);
   -webkit-box-shadow:0 0 0 #FFF;
   -moz-box-shadow:0 0 0 #FFF;
   box-shadow:0 0 0 #FFF;
